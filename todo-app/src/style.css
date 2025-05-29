@@ -10,7 +10,7 @@ body{
     width: 400px;
     padding: 10px 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #fff;
+    background-color: #cacaca;
     border-radius: 20px;
 }
 
@@ -35,7 +35,10 @@ body{
     border-radius: 10px;
     border: none;
     font-weight: bold;
+    font-size: 17px;
     cursor: pointer;
+    background-color: rgb(34, 157, 34);
+    margin-top: 10px;
 }
 
 .todo-item-text{
