@@ -12,11 +12,11 @@ function App() {
       <Title />
       <div className="todo-container">
         <Header />
-        <TodoItem />
-        <TodoItem />
-        <TodoItem />
-        <TodoItem />
-        <TodoItem />
+        <TodoItem item="Eat"/>
+        <TodoItem item="Code"/>
+        <TodoItem item="Sleep"/>
+        <TodoItem item="Repeat"/>
+        <TodoItem item="Eat More"/>
         <Button />
       </div>
     </>
